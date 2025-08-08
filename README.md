@@ -32,8 +32,8 @@ I love to learn by implementing stuff. Just a basic introduction, designed for *
 1. **Clone the repo**
 
 ```bash
-git clone <your-repo-url>
-cd <your-project>
+git clone https://github.com/MaazK7/basic-docker-learning.git
+cd basic-docker-learning
 ```
 
 2. **Create a `.env` file**
